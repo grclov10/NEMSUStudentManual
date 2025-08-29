@@ -4,4 +4,4 @@ numpy>=1.25
 scikit-learn>=1.3
 google-generativeai>=0.7   # only if using Gemini
 openai>=1.0.0              # only if using OpenAI
-PyPDF2
+dotenv
